@@ -20,7 +20,7 @@ This tool automates solving Pokedoku puzzles by:
 
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/pokedoku-solver
+   git clone https://github.com/Kartik-2239/Pokedoku_solver.git
    cd pokedoku-solver
    ```
 
