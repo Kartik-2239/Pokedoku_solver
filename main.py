@@ -11,7 +11,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 from google import genai
 
-client = genai.Client(api_key="AIzaSyDFYg6I3zuYjzrE1QQcMDG1yvoOQInUvXM")
+client = genai.Client(api_key="Your_Api_Key")
 try:
     driver = webdriver.Chrome()
     driver.get('https://pokedoku.com/')
